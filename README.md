@@ -6,7 +6,7 @@
 
 
 
-**EE304 Embedded Systems Project**
+# **EE304 Embedded Systems Project**
 
 ---
 
