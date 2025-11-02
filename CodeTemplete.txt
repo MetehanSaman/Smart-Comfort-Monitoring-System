@@ -1,0 +1,35 @@
+/**
+	***********************************************************
+	*	@file					: PeripheralConfig.c
+	*	@brief				: Configurations of the peripherals
+	***********************************************************
+	*	@info
+	*	The project EmbeddedProject_F746_V1 is created for EE304 
+	*	course by the group members:
+	*	1. Metehan Saman
+	*	2. Emirhan Sonmez
+	*	3. Yusuf Herdem
+	*
+	***********************************************************
+	*	@info
+	*	GitHub Page Link:
+	*	https://github.com/MetehanSaman/Smart-Comfort-Monitoring-System
+	*
+	***********************************************************
+*/
+/* Code Start ---------------------------------------------*/
+
+/* Include Starts------------------------------------------*/
+/* Include Ends--------------------------------------------*/
+
+
+/* Variable Definations Starts-----------------------------*/
+/* Variable Definations Ends-------------------------------*/
+
+
+/* Functions Starts----------------------------------------*/
+/* Functions Ends------------------------------------------*/
+
+
+
+/* Code End -----------------------------------------------*/
