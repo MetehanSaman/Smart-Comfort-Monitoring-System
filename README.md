@@ -1,10 +1,16 @@
 
-![SCMC](https://github.com/user-attachments/assets/41bb3424-32f5-4896-ad4e-ba0d9ab17d6f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41bb3424-32f5-4896-ad4e-ba0d9ab17d6f" alt="SCMS Logo" width="250"/>
+</p>
+
+
+
+
 **EE304 Embedded Systems Project**
 
 ---
 
-##Project Members
+## Project Members
 - **Emirhan Sonmez**
 - **Metehan Saman**
 - **Yusuf Herdem**
@@ -12,7 +18,7 @@
 ###**Note:** All code will be written in **C** at **Register Level**
 ---
 
-##📘Project Description
+## 📘Project Description
 The **Smart Comfort Monitoring System (SCMS)** offers an **affordable**, **adaptive**, and **intelligent** monitoring system for small laboratories and middle-class households.
 
 The system can continuously measure:
@@ -28,7 +34,7 @@ All the measurements are:
 
 ---
 
-##Features
+## Features
 - Reading sensors using **ADC** & **I2C**
 - Evaluating data with an **Embedded AI**
 - Store the data on **SD Card**
@@ -40,7 +46,7 @@ All the measurements are:
 
 ---
 
-##⚙️Hardware
+## ⚙️Hardware
 |------------
 |**Microcontroller** | STM32F746G-DISCO |
 | **Sensors** | Temperature, Humidity, Light, Air Quality |
@@ -52,7 +58,7 @@ All the measurements are:
 
 ---
 
-##System Diagram
+## System Diagram
 <img width="1028" height="550" alt="image" src="https://github.com/user-attachments/assets/816d7e13-82b5-4241-8305-9b72540e24f4" />
 
 ---
