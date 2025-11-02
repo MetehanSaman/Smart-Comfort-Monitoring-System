@@ -14,8 +14,8 @@
 - **Emirhan Sonmez**
 - **Metehan Saman**
 - **Yusuf Herdem**
-- **In Abdullah Gul University (Kayseri/Turkiye)**
-###**Note:** All code will be written in **C** at **Register Level**
+##### **In Abdullah Gul University (Kayseri/Turkiye)**
+##### **Note:** All code will be written in **C** at **Register Level**
 ---
 
 ## 📘Project Description
