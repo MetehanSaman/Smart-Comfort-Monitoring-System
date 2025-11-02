@@ -47,8 +47,10 @@ All the measurements are:
 ---
 
 ## ⚙️Hardware
-|------------
-|**Microcontroller** | STM32F746G-DISCO |
+
+| Component | Description |
+|------------|-------------|
+| **Microcontroller** | STM32F746G-DISCO |
 | **Sensors** | Temperature, Humidity, Light, Air Quality |
 | **Storage** | SD Card Interface |
 | **Audio** | DAC Output |
